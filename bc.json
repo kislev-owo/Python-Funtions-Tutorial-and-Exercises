@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://c8af9366-bd67-48dc-b05b-0239e351790e.ws-us02.gitpod.io",
+    "address": "https://b8fa90b2-e4f1-48fc-bb98-98cc0dcc1992.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -46,7 +46,7 @@
         {
             "slug": "02-Hello-World",
             "title": "02-Hello-World",
-            "done": false,
+            "done": true,
             "path": "exercises/02-Hello-World",
             "translations": [
                 "es",
@@ -57,7 +57,7 @@
         {
             "slug": "03-What-is-a-function",
             "title": "03-What-is-a-function",
-            "done": false,
+            "done": true,
             "path": "exercises/03-What-is-a-function",
             "translations": [
                 "es",
@@ -68,7 +68,7 @@
         {
             "slug": "04-Call-a-function",
             "title": "04-Call-a-function",
-            "done": false,
+            "done": true,
             "path": "exercises/04-Call-a-function",
             "translations": [
                 "es",
@@ -79,7 +79,7 @@
         {
             "slug": "05-Defining-vs-Calling-a-function",
             "title": "05-Defining-vs-Calling-a-function",
-            "done": false,
+            "done": true,
             "path": "exercises/05-Defining-vs-Calling-a-function",
             "translations": [
                 "es",
@@ -90,7 +90,7 @@
         {
             "slug": "06-lambda-functions",
             "title": "06-lambda-functions",
-            "done": false,
+            "done": true,
             "path": "exercises/06-lambda-functions",
             "translations": [
                 "es",
@@ -101,7 +101,7 @@
         {
             "slug": "07-lambda-function-two",
             "title": "07-lambda-function-two",
-            "done": false,
+            "done": true,
             "path": "exercises/07-lambda-function-two",
             "translations": [
                 "es",
@@ -112,7 +112,7 @@
         {
             "slug": "08-Function-that-returns",
             "title": "08-Function-that-returns",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Function-that-returns",
             "translations": [
                 "es",
@@ -123,7 +123,7 @@
         {
             "slug": "09-Function-parameters",
             "title": "09-Function-parameters",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Function-parameters",
             "translations": [
                 "es",
@@ -134,7 +134,7 @@
         {
             "slug": "10-Array-Methods",
             "title": "10-Array-Methods",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Array-Methods",
             "translations": [
                 "es",
